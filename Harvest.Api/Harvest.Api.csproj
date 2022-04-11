@@ -16,6 +16,8 @@
     <PackageTags>harvest harvestapp harvestapi</PackageTags>
     <Platforms>AnyCPU;x64</Platforms>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>WarpHarvest.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,5 +1,6 @@
-[![NuGet](https://img.shields.io/nuget/v/Harvest.Api.svg?maxAge=43200)](https://www.nuget.org/packages/Harvest.Api)
-[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-blue?style=flat&logo=adguard)](https://how-to-help-ukraine-now.super.site/)
+#WARP Fork
+
+Forked to give us the ability to sign the assembly for use in Dynamics projects.
 
 # Harvest.Api
 
